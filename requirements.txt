@@ -1,4 +1,4 @@
-altair
+altair<5
 pandas
 streamlit
 https://core-previews.s3-us-west-2.amazonaws.com/pr-6059/streamlit-1.17.0-py2.py3-none-any.whl
